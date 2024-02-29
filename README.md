@@ -1,4 +1,4 @@
-# gestion
+# Student Management System with Menu Operations
 
 During my first year of my academic journey, I embarked on the creation of my first mini-project within the school setting. It's made with the programming language C and its purpose is to manage a school's data.
 
