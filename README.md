@@ -1,6 +1,6 @@
 # gestion
 
-During the inaugural year of my academic journey, I embarked on the creation of my first mini-project within the school setting. It's made with the programming language C and it's purpose is to manage a school's data.
+During my first year of my academic journey, I embarked on the creation of my first mini-project within the school setting. It's made with the programming language C and its purpose is to manage a school's data.
 
 Here's the output :
 Menu Principal:
